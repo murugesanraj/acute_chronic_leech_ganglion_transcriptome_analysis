@@ -15,8 +15,8 @@
 #==============================================================================
 # USER-DEFINED VARIABLES
 #==============================================================================
-GENOME_DIR="/mnt/pixstor/schulzd-lab/software_tools/leech_genome_annot/hv_genome_annot/hv_star_index"
-GTF_FILE="/mnt/pixstor/schulzd-lab/software_tools/leech_genome_annot/hv_genome_annot/genemark_star_ready.gtf"
+GENOME_DIR="../software_tools/leech_genome_annot/hv_genome_annot/hv_star_index"
+GTF_FILE="../schulzd-lab/software_tools/leech_genome_annot/hv_genome_annot/genemark_star_ready.gtf"
 
 #==============================================================================
 # Main Script
